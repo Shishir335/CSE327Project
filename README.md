@@ -5,8 +5,8 @@ Reminder System
 Prepared by
 
 1.	A. K. M. Mahbub Ullah       1520383042
-2.	23
-3.	23
+2.	Rezwana Shama      1410062642
+3.	Rumki Hossain      1330258042
 
 
 
@@ -138,4 +138,25 @@ There are a number of constraints around the execution of this system. The syste
 2.5. Assumptions
 
 Let us assume the user will stay located in a single country and have only certain modes of transportation and certain traffic time limits. We also assume that the information about plan changes will be coming through phone messaging apps only.
+
+
+
+
+
+Functional Requirements
+
+1.	For games disable- System permission to view running processes in the system and check there is any game is already running, if running it will send notification to the users to remind the user about studies.
+2.	For tracking location- Database (Firebase)
+For location, traffic reminder- Maps API provided by google and we need to send push notifications in android
+3.	For group project notification- Need to add other users and set reminder
+4.	For user routine- Need to save database according to calendar and it will give reminder. On Functional Requirements 
+
+
+
+1. Availability 
+2.  Reliability 
+3. Recoverability 
+4. Security 
+5. Capacity
+6. Scalability
 
