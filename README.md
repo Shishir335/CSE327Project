@@ -149,9 +149,11 @@ Functional Requirements
 2.	For tracking location- Database (Firebase)
 For location, traffic reminder- Maps API provided by google and we need to send push notifications in android
 3.	For group project notification- Need to add other users and set reminder
-4.	For user routine- Need to save database according to calendar and it will give reminder. On Functional Requirements 
+4.	For user routine- Need to save database according to calendar and it will give reminder. 
 
 
+
+On Functional Requirements 
 
 1. Availability 
 2.  Reliability 
